@@ -1,28 +1,28 @@
 # 📝 Project Title
 
-# ✅ To Do CLI App
+## ✅ To Do CLI App
 
 ---
 
-# 📌 Brief One Line Summary
+## 📌 Brief One Line Summary
 
 A simple command-line based task management application built using Python.
 
 ---
 
-# 📖 Overview
+## 📖 Overview
 
 The To Do CLI App is a beginner friendly Python project that helps users manage daily tasks directly from the terminal. The application allows users to ➕ add, 📃 view, and ❌ delete tasks while storing the data permanently using file handling.
 
 ---
 
-# ❓ Problem Statement
+## ❓ Problem Statement
 
 Managing daily tasks manually can become difficult and unorganized. This project provides a lightweight and simple command-line solution for tracking tasks efficiently without needing any external software.
 
 ---
 
-# 🛠️ Tools and Technologies
+## 🛠️ Tools and Technologies
 
 - 🐍 Python
 - 📁 File Handling
@@ -35,7 +35,7 @@ Managing daily tasks manually can become difficult and unorganized. This project
 
 ---
 
-# ⚙️ Methods
+## ⚙️ Methods
 
 The project works using the following methods:
 
@@ -48,7 +48,7 @@ The project works using the following methods:
 
 ---
 
-# 🔍 Key Insights
+## 🔍 Key Insights
 
 - ✅ Learned CRUD operations
 - 📁 Understood file handling concepts
@@ -58,9 +58,9 @@ The project works using the following methods:
 
 ---
 
-# 🖥️ Dashboard / Model / Output
+## 🖥️ Dashboard / Model / Output
 
-## 📌 Main Menu
+### 📌 Main Menu
 
 ```text
 --- TO DO APP ---
@@ -70,7 +70,7 @@ The project works using the following methods:
 4. Exit
 ```
 
-## 📃 Example Output
+### 📃 Example Output
 
 ```text
 Your Tasks:
@@ -81,21 +81,21 @@ Your Tasks:
 
 ---
 
-# 🚀 How to Run this Project?
+## 🚀 How to Run this Project?
 
-## 1️⃣ Clone Repository
+### 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/ashnaansari/Python-Projects
 ```
 
-## 2️⃣ Open Project Folder
+### 2️⃣ Open Project Folder
 
 ```bash
 cd todo-cli-app
 ```
 
-## 3️⃣ Run Python File
+### 3️⃣ Run Python File
 
 ```bash
 python todo.py
@@ -103,13 +103,13 @@ python todo.py
 
 ---
 
-# 📈 Results & Conclusion
+## 📈 Results & Conclusion
 
 The project successfully performs basic task management operations through the command line. It demonstrates practical implementation of Python fundamentals such as file handling, loops, lists, and exception handling while providing a useful real-world application.
 
 ---
 
-# 🔮 Future Work
+## 🔮 Future Work
 
 - ⭐ Add task priorities
 - 📅 Add due dates
@@ -119,7 +119,7 @@ The project successfully performs basic task management operations through the c
 
 ---
 
-# 👤 Author & Contact
+## 👤 Author & Contact
 
 **Author:** Ashna Ansari
 
